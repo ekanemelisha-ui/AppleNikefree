@@ -1,0 +1,9 @@
+The landing page now visually frames the live GHL form as a premium checkout card.
+The GHL form itself remains externally hosted by GoHighLevel, so its internal fields and native styling must be edited in GHL if you want them changed.
+Recommended GHL form styling:
+- Background: warm white / ivory
+- Labels: dark charcoal
+- Button: black or deep charcoal with white text, or the page's lime CTA if supported
+- Border radius: 4–8px
+- Button copy: PLACE MY ORDER
+- Keep fields short: name, WhatsApp/phone, state, city/area, colour, quantity.

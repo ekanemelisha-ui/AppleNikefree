@@ -1,0 +1,18 @@
+POST-SUBMISSION WHATSAPP SETUP
+
+The landing page now includes a WhatsApp option directly beside/under the GHL order form.
+
+Important browser limitation:
+The GHL form is inside a cross-origin iframe, so the parent landing page cannot reliably detect the iframe's successful submission and automatically reveal a WhatsApp button.
+
+Recommended GHL implementation:
+1. In GoHighLevel, open the form aI71QOpGow6aEe67g3KT.
+2. Configure the form's successful submission/Thank You action.
+3. Either:
+   A. Show a thank-you message containing a WhatsApp button/link, OR
+   B. Redirect to a dedicated thank-you page containing:
+      "Order received. Have a question? Chat with us on WhatsApp."
+4. Use this WhatsApp URL:
+   https://wa.me/2349064338611?text=WATCH%20-%20I've%20just%20placed%20an%20order%20and%20I'd%20like%20to%20ask%20a%20question.
+
+The landing page also keeps a visible WhatsApp option so buyers who want to ask questions before ordering are not blocked.

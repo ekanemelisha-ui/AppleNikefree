@@ -1,0 +1,5 @@
+Primary video: https://res.cloudinary.com/easye/video/upload/v1787714557/video-1_h1wilw.mp4
+Second video: https://res.cloudinary.com/easye/video/upload/v1787714549/video-2_nkvihb.mp4
+Third video: https://res.cloudinary.com/easye/video/upload/v1787714556/video-3_iyfkko.mp4
+GitHub hosts HTML/CSS/product images; Cloudinary serves video; GHL form handles orders.
+WhatsApp: +2349064338611
